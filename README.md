@@ -1,16 +1,22 @@
-### Hi there 👋
+# Sairaam Venkataramani
+# Hey there👋
 
-<!--
-**VictorSairam/victorsairam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a Robotics Engineering Graduate Student
+🤖 I am specializing in Computer Vision 👁️ and Machine Learning 
 
-Here are some ideas to get you started:
+# How to reach me: [svenkataramani@wpi.edu](mailto:svenkataramani@wpi.edu) 📩
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+- <span style="color:green">Master of Science in Robotics Engineering, Worcester Polytechnic Institute (2021-2023)</span>
+- <span style="color:green">Bachelor of Technology in Mechanical Engineering, SASTRA University (2017-2021)</span>
+
+## Skills
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=[VictorSairam]&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[VictorSairam]&layout=compact&theme=radical)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[sairam-venkataramani]-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/[sairam-venkataramani]/)
+
