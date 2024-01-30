@@ -4,7 +4,7 @@
 🎓 I am a Robotics Engineering Graduate
 🤖 I am specializing in Computer Vision 👁️ and Machine Learning 
 
-# How to reach me: [svenkataramani@wpi.edu](mailto:svenkataramani@wpi.edu) 📩
+# How to reach me: [vsairamone@gmail.com](mailto:vsairamone@gmail.com) 📩
 
 ## Education
 
