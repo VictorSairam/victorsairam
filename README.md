@@ -4,8 +4,6 @@
 🎓 I am a Robotics Engineering Graduate
 🤖 I am specializing in Computer Vision 👁️ and Machine Learning 
 
-# How to reach me: [vsairamone@gmail.com](mailto:vsairamone@gmail.com) 📩
-
 ## Education
 
 - <span style="color:green">Master of Science in Robotics Engineering, Worcester Polytechnic Institute (2021-2023)</span>
