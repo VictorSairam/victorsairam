@@ -34,5 +34,4 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[sairam-venkataramani]-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/[sairam-venkataramani]/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sairam--venkataramani-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sairam-venkataramani-102334200/)
